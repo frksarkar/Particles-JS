@@ -1,3 +1,3 @@
 # Particles-JS
 live demo
-https://faruksarkar.github.io/Particles-JS/
+https://frksarkar.github.io/Particles-JS/
